@@ -1,8 +1,6 @@
 ### Hi, I'm Ismail 👋
 
-I love making things!
-
-- 🌐 I’m currently working on developing web applications mostly with react.
+I love building things!
 
 <p align="center">
 </p>
